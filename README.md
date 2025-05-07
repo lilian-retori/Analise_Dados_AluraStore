@@ -91,5 +91,9 @@ O poder está nas suas mãos! 🪄
 <div align="center">
   <h3>✨ Transformando dados em ouro desde 2023 ✨</h3>
   <p>
-    💌Desenvolvido com paixão por <a href="https://github.com/lilian-retori">[Lilian_Retori]
-      (https://linkedin.com/in/lilian-retori) • [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+    💌 Desenvolvido com paixão por Lilian Retori • 
+    <a href="https://linkedin.com/in/lilian-retori">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+</div>
